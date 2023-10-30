@@ -19,7 +19,7 @@ Additionally, the methods employed to estimate TB prevalence produced different 
 
 ## Challenges 
 1) Analyzing the vast amount of data presented challenges in pinpointing the exact metrics necessary for the analysis.
-2) While Tableau offers regression analysis capabilities, they proved limited in meeting the project's specific requirements.
+2) While Tableau offers a wide range of visualization types, there are limits to how much I can customize them without resorting to more complex workarounds.
 3) Fine-tuning the data visualizations in Tableau posed certain difficulties, especially in achieving precise representations.
 
 ## Future Goals
