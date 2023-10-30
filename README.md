@@ -23,5 +23,5 @@ Additionally, the methods employed to estimate TB prevalence produced different 
 3) Fine-tuning the data visualizations in Tableau posed certain difficulties, especially in achieving precise representations.
 
 ## Future Goals
-Dive deeper into correlating TB rates with other socio-economic indicators to understand underlying causes better.
-Enhance the dashboard's interactivity, allowing users to drill down into specific regions or time frames.
+1) Expand the analysis to other continents to get a more holistic view of global TB patterns and compare them with the findings from Africa.
+2) Other biological or environmental data may be searched to find significant factors related to tuberculosis.
