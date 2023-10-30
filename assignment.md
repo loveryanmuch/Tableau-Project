@@ -129,6 +129,7 @@ The World Health Organization estimates the prevalence and mortality of Tubercul
 1. Connect your data
 2. Detect different data types in your data
 3. Build at least 5 different visualizations to learn more about the dataset. 
+
 4. This table has 47 different features. Can you detect the most important features ? Why do you think these are important? Can you define a question for yourself? Try to learn more about these categories and find appropriate numerical features to study different trends in them. 
   - For example , the following features could be important for your analysis:
     - Country or territory name
@@ -145,8 +146,13 @@ The World Health Organization estimates the prevalence and mortality of Tubercul
   - Date and time
   - Analytical visuals (Forecasting - Clustering)
   - Show Me tables
+
+
 6. Try to find an interesting pattern, trend, outlier, etc. from the data used in the above steps.
+
 7. From step 5, try to detect meaningful keypoints. This is the starting point to think about your dashboard. 
+
+
 8. Now that you are familiar with your dataset and your columns, in this step, come up with different questions which you will be answering and presenting at the end of this project.
 9. Create the dashboard to answer your questions that you came up with in step 8 and try to revise your questions along the way.
 10. Get ready to present your dashboard. 
